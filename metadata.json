@@ -1,0 +1,8 @@
+{
+  "name": "AQUA2U - Smart Water Tanker Allocation & Distribution Platform",
+  "description": "AI-powered municipal and commercial water tanker allocation platform featuring scarcity prioritization, live GPS fleet tracking, route optimization, and OTP-verified delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
