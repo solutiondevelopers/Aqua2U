@@ -1,4 +1,4 @@
-# 💧 Jal-Setu AI
+# 💧 AQUA2U
 
 **AI-powered water tanker distribution and fair allocation platform for water-scarce urban areas.**
 
